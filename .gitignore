@@ -1,0 +1,10 @@
+env
+venv
+.env
+.venv
+unit_test_sample.egg-info
+__pycache__
+.pytest_cache
+.coverage
+htmlcov
+```
